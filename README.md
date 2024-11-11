@@ -9,12 +9,13 @@ The report consists of multiple pages designed to cater to different analytical 
 2. Matrix Visuals: This page contains detailed matrix visuals to verify all measures and calculations used in the report.
 3. Notes: This page highlights key insights and noteworthy observations derived from the data analysis.
 
-Folder Structure
+## Folder Structure
 The project folder contains the following structure:
 
 Maven Market Data: Folder containing CSV files of the company's dataset and logo.
 Maven Market Report: Final PowerBI report file showcasing all the visualizations, insights, and dashboards.
-Usage
+
+## Usage
 Ensure you have Power BI Desktop installed.
 Clone this repository to your local machine.
 Open Power BI Desktop.
