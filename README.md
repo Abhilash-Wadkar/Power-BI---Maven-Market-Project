@@ -1,4 +1,4 @@
-## PowerBI-MavenMarket-Project
+## PowerBI-Maven Market-Project
 ## Overview
 This repository contains a PowerBI project focusing on analyzing the performance of Maven Market using data related to customers, sales, returns, products, regions, and stores. The report is designed to provide insights into various aspects of the business and consists of pages like Topline Performance Dashboard, Matrix Visuals, and Notes.
 
