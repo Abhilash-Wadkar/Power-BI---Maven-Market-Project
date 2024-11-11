@@ -12,14 +12,14 @@ The report consists of multiple pages designed to cater to different analytical 
 ## Folder Structure
 The project folder contains the following structure:
 
-Maven Market Data: Folder containing CSV files of the company's dataset and logo.
-Maven Market Report: Final PowerBI report file showcasing all the visualizations, insights, and dashboards.
+1. Maven Market Data: Folder containing CSV files of the company's dataset and logo.
+2. Maven Market Report: Final PowerBI report file showcasing all the visualizations, insights, and dashboards.
 
 ## Usage
-Ensure you have Power BI Desktop installed.
-Clone this repository to your local machine.
-Open Power BI Desktop.
-Open the "Maven Market Report.pbix" file.
-Ensure that the CSV files in the "Maven Market Data" folder are accessible.
-Use slicers and filters as needed to customize the analysis.
-Refer to the "Notes" page for additional insights and recommendations.
+1. Ensure you have Power BI Desktop installed.
+2. Clone this repository to your local machine.
+3. Open Power BI Desktop.
+4. Open the "Maven Market Report.pbix" file.
+5. Ensure that the CSV files in the "Maven Market Data" folder are accessible.
+6. Use slicers and filters as needed to customize the analysis.
+7. Refer to the "Notes" page for additional insights and recommendations.
